@@ -1,0 +1,26 @@
+git init (inicia na pasta)
+
+git add . (Adiciona todas os arquivos ao palco/stage)
+
+git add [nome do arquivo]
+
+git commit -m "Nome do commit" (Faz o commit com o nome)
+
+Git branch -M [nome da branch] (da um nome para uma branch)
+
+Git remote add origin [link repository .git] (Indica onde o coding vai ficar)
+
+Git push -u origin [nome da branch] (subindo o repositório)
+
+Git status (verifica atualizações para o stage)
+
+Git pull origin [nome da branch] (puxa os arquivos do repositorio)
+
+Git clone [link repositorio.git] (clona um repositorio]
+
+
+
+
+
+
+
